@@ -39,11 +39,6 @@ EXTRA_PATH_METADATA = {
     'static/.nojekyll': {'path': '.nojekyll'},
     }
 
-# Static files 
-STATIC_PATHS = [
-    'static',
-    ]
-
 MENUITEMS = [('Home', '/'), ('Archives', '/archives.html')]
 
 # Uncomment following line if you want document-relative URLs when developing
