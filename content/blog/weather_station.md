@@ -1,7 +1,6 @@
 Title: Weather Station
 Date: 2020-07-18 16:00
 Modified: 2020-07-25 19:30
-og_image: ../images/weather_station/IMG_20200630_170836_edited_1.jpg
 Tags: Raspberry Pi, Python, weather station
 
 # As a studied atmospheric scientist it is almost a duty to operate a personal weather station [(PWS)](https://www.wunderground.com/dashboard/pws/IPATSC2/).

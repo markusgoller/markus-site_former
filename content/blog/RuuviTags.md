@@ -1,6 +1,5 @@
 Title: RuuviTags
 Date: 2020-09-13 20:00
-og_image: ../images/RuuviTags/IMG_20200914_183532_resize.jpg
 Tags: Arduino, Environment
 
 # What is a RuuviTag

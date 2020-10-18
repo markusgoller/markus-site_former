@@ -1,8 +1,0 @@
-[submodule "pelican-themes/attila"]
-	path = pelican-themes/attila
-	url = https://github.com/msvalina/attila.git
-	branch = master
-[submodule "pelican-themes/pelican-clean-blog"]
-	path = pelican-themes/pelican-clean-blog
-	url = https://github.com/gilsondev/pelican-clean-blog.git
-	branch = master

@@ -46,18 +46,5 @@ STATIC_PATHS = [
 
 MENUITEMS = [('Home', '/'), ('Archives', '/archives.html')]
 
-# pelican-themes
-THEME = './pelican-themes/attila'
-#THEME = './pelican-themes/pelican-clean-blog'
-
-# COVERS for pelican-themes (pictures have to be at the pelican-themes path)
-#
-# On each blog is the same HEADER_COVER  
-#HEADER_COVER = 'static/IMG_20200819_130938_resize.jpg'
-#
-# Can set individual COVERS
-HOME_COVER = 'static/IMG_20200819_130938_resize.jpg'
-
-
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
