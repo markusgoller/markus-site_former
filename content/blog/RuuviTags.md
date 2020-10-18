@@ -1,6 +1,6 @@
 Title: RuuviTags
 Date: 2020-09-13 20:00
-og_image:../images/RuuviTags/IMG_20200914_183532_resize.jpg
+og_image: ../images/RuuviTags/IMG_20200914_183532_resize.jpg
 Tags: Arduino, Environment
 
 # What is a RuuviTag
@@ -18,12 +18,12 @@ Since I live in the Alps and there are wonderful mountains around me, I would li
 # Here are a few impressions from the RuuviTag(s):
 
 ### "Slogan" ;-)
-![Photo]({attach}../images/RuuviTags/IMG_20200914_185318_resize.jpg)
+![Photo](/images/RuuviTags/IMG_20200914_185318_resize.jpg)
 
 ### Measurements of three RuuviTags transmitted via Bluetooth on my Phone
-![Photo]({attach}../images/RuuviTags/Screenshot_2020-09-13-18-53-25-224_com.ruuvi.station_resize.jpg)
+![Photo](/images/RuuviTags/Screenshot_2020-09-13-18-53-25-224_com.ruuvi.station_resize.jpg)
 
 ### RooviTag and it's enclosure
-![Photo]({attach}../images/RuuviTags/IMG_20200914_183532_resize.jpg)
+![Photo](/images/RuuviTags/IMG_20200914_183532_resize.jpg)
 
 #### Will be continued...

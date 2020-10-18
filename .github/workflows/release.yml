@@ -2,7 +2,7 @@ name: release on GH-Pages
 
 on:
   push:
-    branches: [ include_the_blog ]
+    branches: [ integrate_pelican-themes ]
 
 jobs:
   gh-pages:
