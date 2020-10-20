@@ -3,7 +3,6 @@ Date: 2020-08-26 16:00
 og_image:/images/bike_tour_berlin_notebook/IMG_20200819_140131_resize.jpg
 
 # Bike tour Berlin
-
 Since my brother and I belong more to the sporty guys, we thought, why shouldn't we explore Berlin by bike.
 So we grabbed a rental bike and went for a spin through Berlin.
 Since I personally haven't created a jupyter notebook for a while now, I think this is a good opportunity.
