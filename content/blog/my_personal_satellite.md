@@ -27,7 +27,7 @@ The launch of the rocket should be in the year 2021 with the first Neptune 2 roc
 
 However, due to COVID-19 crisis there are delivery difficulties and I did not get a satellite kit yet.
 
-[Link to AmbaSAT Blog ](https://ambasat.com/blog-2/)
+[Link to AmbaSAT Blog](https://ambasat.com/blog-2/)
 
 #### Will be continued...
 
