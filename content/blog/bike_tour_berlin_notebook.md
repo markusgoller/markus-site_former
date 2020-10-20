@@ -1,6 +1,6 @@
 Title: Test Bike tour Berlin (Jupyter Notebook)
 Date: 2020-08-26 16:00
-og_image:../images/bike_tour_berlin_notebook/IMG_20200819_140131_resize.jpg
+og_image:/images/bike_tour_berlin_notebook/IMG_20200819_140131_resize.jpg
 
 # Bike tour Berlin
 
@@ -21,15 +21,15 @@ The notebook is unfortunately not quite finished yet and will follow.
 All in all we were really quite sporty and cycled a good 100 kilometers across Berlin, here are a few impressions from Berlin,
 
 ### Alexanderplatz
-![Photo]({attach}../images/bike_tour_berlin_notebook/IMG_20200815_114145_resize.jpg)
+![Photo](/images/bike_tour_berlin_notebook/IMG_20200815_114145_resize.jpg)
 
 ### Gedächtniskirche
-![Photo]({attach}../images/bike_tour_berlin_notebook/IMG_20200815_200436_1_resize.jpg)
+![Photo](/images/bike_tour_berlin_notebook/IMG_20200815_200436_1_resize.jpg)
 
 ### Parts of the Wall.
-![Photo]({attach}../images/bike_tour_berlin_notebook/IMG_20200819_205230_resize.jpg)
+![Photo](/images/bike_tour_berlin_notebook/IMG_20200819_205230_resize.jpg)
 
 ### Abandoned Airport Tempelhof
-![Photo]({attach}../images/bike_tour_berlin_notebook/IMG_20200817_134433_resize.jpg)
+![Photo](/images/bike_tour_berlin_notebook/IMG_20200817_134433_resize.jpg)
 
 

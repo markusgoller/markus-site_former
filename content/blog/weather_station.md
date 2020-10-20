@@ -1,23 +1,23 @@
 Title: Weather Station
 Date: 2020-07-18 16:00
 Modified: 2020-07-25 19:30
-og_image:../images/weather_station/IMG_20200630_170836_edited_1.jpg
+og_image:/images/weather_station/IMG_20200630_170836_edited_1.jpg
 Tags: Raspberry Pi, Python, weather station
 
 # As a studied atmospheric scientist it is almost a duty to operate a personal weather station [(PWS)](https://www.wunderground.com/dashboard/pws/IPATSC2/).
 
 Here you can see the outside sensors.
-![Photo]({attach}../images/weather_station/IMG_20200705_154307_resize.jpg)
+![Photo](/images/weather_station/IMG_20200705_154307_resize.jpg)
 
 It is a Renkfore radio weather station ["WH2315"](https://www.amazon.de/Renkforce-WH2315-Funk-WETTERSTATION/dp/B01N4DK6TG#ace-g6772571139).
 The station has a radio connection to a basis station and this is connected to a Raspberry Pi.
 The data is than hosted via [weex](http://www.weewx.com/) to [Wunderground](https://www.wunderground.com/).
 
 Below is a picture of the basis station.
-![Photo]({attach}../images/weather_station/IMG_20200726_172233_resize.jpg)
+![Photo](/images/weather_station/IMG_20200726_172233_resize.jpg)
 
 Here you can see a sample screenshot of my PWS taken from Wunderground suitable to the photo above. 
-![Photo]({attach}../images/weather_station/renkforce_weather_history_ipatsc2_Screenshot from 2020-07-27 21-01-11.png)
+![Photo](/images/weather_station/renkforce_weather_history_ipatsc2_Screenshot from 2020-07-27 21-01-11.png)
 
 ## Technical Data:
 |                       |                       | Range                  | Resolution                                                                 | Accuracy                                                          |

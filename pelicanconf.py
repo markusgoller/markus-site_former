@@ -41,6 +41,7 @@ EXTRA_PATH_METADATA = {
 
 # Static files
 STATIC_PATHS = [
+    'images',
     'static',
     ]
 
