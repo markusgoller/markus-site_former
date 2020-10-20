@@ -42,6 +42,7 @@ EXTRA_PATH_METADATA = {
 # Static files 
 STATIC_PATHS = [
     'static',
+    'images',
     ]
 
 MENUITEMS = [('Home', '/'), ('Archives', '/archives.html')]
