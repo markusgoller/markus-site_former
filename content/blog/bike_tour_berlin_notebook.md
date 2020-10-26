@@ -1,6 +1,5 @@
 Title: Bike tour Berlin (Jupyter Notebook)
 Date: 2020-08-26 16:00
-og_image:/images/bike_tour_berlin_notebook/IMG_20200819_140131_resize.jpg
 
 # Bike tour Berlin
 Since my brother and I belong more to the sporty guys, we thought, why shouldn't we explore Berlin by bike.

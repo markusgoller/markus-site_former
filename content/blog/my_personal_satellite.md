@@ -1,7 +1,6 @@
 Title: My Personal Satellite
 Date: 2020-07-25 19:30
 Modified: 2020-09-07 20:00
-og_image:/images/my_personal_satellite/ambasat.jpg
 Tags: Arduino, Satellite, Space, Environment, LoRaWAN, TTN
 
 # One project that I am especially looking forward to is following:
