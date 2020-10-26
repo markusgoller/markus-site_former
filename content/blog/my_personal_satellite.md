@@ -1,6 +1,6 @@
 Title: My Personal Satellite
 Date: 2020-07-25 19:30
-Modified: 2020-09-07 20:00
+Modified: 2020-10-26 23:30
 Tags: Arduino, Satellite, Space, Environment, LoRaWAN, TTN
 
 # One project that I am especially looking forward to is following:
@@ -25,10 +25,16 @@ The CubeSat should transport about 200 sprites.
 The launch of the rocket should be in the year 2021 with the first Neptune 2 rocket launch from Interorbital Systems (IOS).
 
 However, due to COVID-19 crisis there are delivery difficulties and I did not get a satellite kit yet.
+...
+
+## News from AmbaSat:
+"The latest batch of AmbaSat-1 kits are ready to ship" :-), I can hardly wait to solder anything, see more at the [AmbaSAT Blog](https://ambasat.com/ambasat-1-kits-ready-to-ship/).
+![Photo](/images/my_personal_satellite/ambasat-boxes-r.jpg)  
+
 
 [Link to AmbaSAT Blog](https://ambasat.com/blog-2/)
 
 #### Will be continued...
 
-Photo by [AmbaSAT-1](https://ambasat.com/)
+Photos by [AmbaSAT-1](https://ambasat.com/)
 
