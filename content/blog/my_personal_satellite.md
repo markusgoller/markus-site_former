@@ -28,7 +28,7 @@ However, due to COVID-19 crisis there are delivery difficulties and I did not ge
 ...
 
 ## News from AmbaSat:
-"The latest batch of AmbaSat-1 kits are ready to ship" :-), I can hardly wait to solder anything, see more at the [AmbaSAT Blog](https://ambasat.com/ambasat-1-kits-ready-to-ship/).
+"The latest batch of AmbaSat-1 kits are ready to ship", I can hardly wait to solder the kit :-). See more at the [AmbaSAT Blog](https://ambasat.com/ambasat-1-kits-ready-to-ship/).
 ![Photo](/images/my_personal_satellite/ambasat-boxes-r.jpg)  
 
 
