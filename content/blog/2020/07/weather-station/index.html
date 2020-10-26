@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+          <title>Blog - Weather Station</title>
+        <meta charset="utf-8" />
+        <meta name="generator" content="Pelican" />
+        <link href="https://markus-site.at/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Blog Full Atom Feed" />
+        <link href="https://markus-site.at/feeds/blog.atom.xml" type="application/atom+xml" rel="alternate" title="Blog Categories Atom Feed" />
+
+
+
+
+    <meta name="tags" content="Raspberry Pi" />
+    <meta name="tags" content="Python" />
+    <meta name="tags" content="weather station" />
+
+</head>
+
+<body id="index" class="home">
+        <header id="banner" class="body">
+                <h1><a href="https://markus-site.at/">Blog</a></h1>
+        </header><!-- /#banner -->
+        <nav id="menu"><ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="/archives.html">Archives</a></li>
+            <li><a href="https://markus-site.at/pages/about.html">About</a></li>
+            <li class="active"><a href="https://markus-site.at/category/blog.html">blog</a></li>
+        </ul></nav><!-- /#menu -->
+<section id="content" class="body">
+  <header>
+    <h2 class="entry-title">
+      <a href="https://markus-site.at/content/blog/2020/07/weather-station/" rel="bookmark"
+         title="Permalink to Weather Station">Weather Station</a></h2>
+ 
+  </header>
+  <footer class="post-info">
+    <time class="published" datetime="2020-07-18T16:00:00+02:00">
+      Sat 18 July 2020
+    </time>
+    <time class="modified" datetime="2020-07-25T19:30:00+02:00">
+      Sat 25 July 2020
+    </time>
+    <address class="vcard author">
+      By           <a class="url fn" href="https://markus-site.at/author/markus.html">Markus</a>
+    </address>
+    <div class="category">
+        Category: <a href="https://markus-site.at/category/blog.html">blog</a>
+    </div>
+    <div class="tags">
+        Tags:
+            <a href="https://markus-site.at/tag/raspberry-pi.html">Raspberry Pi</a>
+            <a href="https://markus-site.at/tag/python.html">Python</a>
+            <a href="https://markus-site.at/tag/weather-station.html">weather station</a>
+    </div>
+  </footer><!-- /.post-info -->
+  <div class="entry-content">
+    <h1>As a studied atmospheric scientist it is almost a duty to operate a personal weather station <a href="https://www.wunderground.com/dashboard/pws/IPATSC2/">(PWS)</a>.</h1>
+<p>Here you can see the outside sensors.
+<img alt="Photo" src="/images/weather_station/IMG_20200705_154307_resize.jpg"></p>
+<p>It is a Renkfore radio weather station <a href="https://www.amazon.de/Renkforce-WH2315-Funk-WETTERSTATION/dp/B01N4DK6TG#ace-g6772571139">"WH2315"</a>.
+The station has a radio connection to a basis station and this is connected to a Raspberry Pi.
+The data is than hosted via <a href="http://www.weewx.com/">weex</a> to <a href="https://www.wunderground.com/">Wunderground</a>.</p>
+<p>Below is a picture of the basis station.
+<img alt="Photo" src="/images/weather_station/IMG_20200726_172233_resize.jpg"></p>
+<p>Here you can see a sample screenshot of my PWS taken from Wunderground suitable to the photo above. 
+<img alt="Photo" src="/images/weather_station/renkforce_weather_history_ipatsc2_Screenshot from 2020-07-27 21-01-11.png"></p>
+<h2>Technical Data:</h2>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th>Range</th>
+<th>Resolution</th>
+<th>Accuracy</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Basis Station sensors</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Temperature</td>
+<td>-9.9 °C - +60 °C</td>
+<td>0.1%</td>
+<td>+-1 °C</td>
+</tr>
+<tr>
+<td></td>
+<td>Relative humidity</td>
+<td>1% - 99%</td>
+<td>1%</td>
+<td>+-5%</td>
+</tr>
+<tr>
+<td></td>
+<td>Barometric pressure</td>
+<td>300 - 1100 hPa</td>
+<td>0.1%</td>
+<td>+-3 hPa in the area of 700 - 1100 hPa</td>
+</tr>
+<tr>
+<td>Outside sensors</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Temperature</td>
+<td>-40 °C - +60 °C</td>
+<td>0.1 °C</td>
+<td>+-1 °C</td>
+</tr>
+<tr>
+<td></td>
+<td>Relative humidity</td>
+<td>1% - 99%</td>
+<td>1%</td>
+<td>+-5%</td>
+</tr>
+<tr>
+<td></td>
+<td>Rain volume</td>
+<td>0 - 9999 mm</td>
+<td>0.3 mm (at rain volume of &lt; 1000 mm) 1 mm (at rain volume of &gt;= 1000 mm)</td>
+<td>+-10%</td>
+</tr>
+<tr>
+<td></td>
+<td>Wind speed</td>
+<td>0 - 50 m/s</td>
+<td>-</td>
+<td>+- 1 m/s  (at wind speed &lt; 5 m/s) +- 10% (at wind speed &gt;= 5 m/s)</td>
+</tr>
+<tr>
+<td></td>
+<td>Illumination strength</td>
+<td>0 - 300000 lux</td>
+<td>-</td>
+<td>+- 15%</td>
+</tr>
+<tr>
+<td></td>
+<td>UV-index</td>
+<td>0 - 15 (0 - 20000 W/m²</td>
+<td>-</td>
+<td>-</td>
+</tr>
+</tbody>
+</table>
+<p>Finally a link to <a href="https://www.wunderground.com/dashboard/pws/IPATSC2/">live data of my PWS</a>.</p>
+<h3>Will be be continued...</h3>
+  </div><!-- /.entry-content -->
+</section>
+        <footer id="contentinfo" class="body">
+                <address id="about" class="vcard body">
+                Proudly powered by <a href="https://getpelican.com/">Pelican</a>,
+                which takes great advantage of <a href="https://www.python.org/">Python</a>.
+                </address><!-- /#about -->
+        </footer><!-- /#contentinfo -->
+</body>
+</html>
