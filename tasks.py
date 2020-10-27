@@ -22,7 +22,7 @@ CONFIG = {
     # Output path. Can be absolute or relative to tasks.py. Default: 'output'
     'deploy_path': SETTINGS['OUTPUT_PATH'],
     # Github Pages configuration
-    'github_pages_branch': 'master',
+    'github_pages_branch': 'gh-pages',
     'commit_message': "'Publish site on {}'".format(datetime.date.today().isoformat()),
     # Port for `serve`
     'port': 8000,
@@ -101,20 +101,12 @@ def livereload(c):
 
 
 @task
-def publish(c):
-    """Publish to production via rsync"""
-    c.run('pelican -s {settings_publish}'.format(**CONFIG))
-    c.run(
-        'rsync --delete --exclude ".DS_Store" -pthrvz -c '
-        '-e "ssh -p {ssh_port}" '
-        '{} {ssh_user}@{ssh_host}:{ssh_path}'.format(
-            CONFIG['deploy_path'].rstrip('/') + '/',
-            **CONFIG))
+def delete_unused_template_files(c):
+    """A function to delete unnecessary template files"""
+    c.run('find ./output -type f -name "*.html" -size  0 -print -delete')
+    c.run("find ./output -type d -empty -print -delete")
 
 @task
-def gh_pages(c):
-    """Publish to GitHub Pages"""
-    preview(c)
-    c.run('ghp-import -b {github_pages_branch} '
-          '-m {commit_message} '
-          '{deploy_path} -p'.format(**CONFIG))
+def publish(c):
+    """Build with production settings"""
+    c.run('pelican -s {settings_publish}'.format(**CONFIG))

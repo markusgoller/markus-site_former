@@ -31,5 +31,21 @@ SOCIAL = (('You can add links in your config file', '#'),
 
 DEFAULT_PAGINATION = False
 
+# path-specific metadata
+EXTRA_PATH_METADATA = {
+    'static/robots.txt': {'path': 'robots.txt'},
+    'static/favicon.ico': {'path': 'favicon.ico'}, 
+    'static/CNAME': {'path': 'CNAME'},
+    'static/.nojekyll': {'path': '.nojekyll'},
+    }
+
+# Static files
+STATIC_PATHS = [
+    'images',
+    'static',
+    ]
+
+MENUITEMS = [('Home', '/'), ('Archives', '/archives.html')]
+
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
