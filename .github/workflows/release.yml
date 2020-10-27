@@ -2,7 +2,7 @@ name: release on GH-Pages
 
 on:
   push:
-    branches: [ mogrify_without_invoke ]
+    branches: [ master ]
 
 jobs:
   gh-pages:
