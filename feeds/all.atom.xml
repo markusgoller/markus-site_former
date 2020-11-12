@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Blog</title><link href="https://markus-site.at/" rel="alternate"></link><link href="https://markus-site.at/feeds/all.atom.xml" rel="self"></link><id>https://markus-site.at/</id><updated>2020-10-26T23:30:00+01:00</updated><entry><title>RuuviTags</title><link href="https://markus-site.at/ruuvitags.html" rel="alternate"></link><published>2020-09-13T20:00:00+02:00</published><updated>2020-09-13T20:00:00+02:00</updated><author><name>Markus</name></author><id>tag:markus-site.at,2020-09-13:/ruuvitags.html</id><summary type="html">&lt;h1&gt;What is a RuuviTag&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Blog</title><link href="https://markus-site.at/" rel="alternate"></link><link href="https://markus-site.at/feeds/all.atom.xml" rel="self"></link><id>https://markus-site.at/</id><updated>2020-10-26T23:30:00+01:00</updated><entry><title>RuuviTags</title><link href="https://markus-site.at/ruuvitags.html" rel="alternate"></link><published>2020-09-13T20:00:00+02:00</published><updated>2020-09-13T20:00:00+02:00</updated><author><name>Markus</name></author><id>tag:markus-site.at,2020-09-13:/ruuvitags.html</id><summary type="html">&lt;h1&gt;What is a RuuviTag?&lt;/h1&gt;
 &lt;p&gt;A RuuviTag is a Open-Source Bluetooth Sensor Beacon, it was a &lt;a href="https://www.kickstarter.com/projects/463050344/ruuvitag-open-source-bluetooth-sensor-beacon"&gt;Kickstarter&lt;/a&gt; project.  &lt;br&gt;
 The tag is about 5 cm in diameter and with it's sensors you can basically measure the following:&lt;/p&gt;
 &lt;ul&gt;
@@ -7,8 +7,8 @@ The tag is about 5 cm in diameter and with it's sensors you can basically measur
 &lt;li&gt;Relative humidity&lt;/li&gt;
 &lt;li&gt;Barometric pressure&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1&gt;What is planned:&lt;/h1&gt;
-&lt;p&gt;At first I want to compare the …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;What is a RuuviTag&lt;/h1&gt;
+&lt;h1&gt;What is planned?&lt;/h1&gt;
+&lt;p&gt;At first I want to compare the …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;What is a RuuviTag?&lt;/h1&gt;
 &lt;p&gt;A RuuviTag is a Open-Source Bluetooth Sensor Beacon, it was a &lt;a href="https://www.kickstarter.com/projects/463050344/ruuvitag-open-source-bluetooth-sensor-beacon"&gt;Kickstarter&lt;/a&gt; project.  &lt;br&gt;
 The tag is about 5 cm in diameter and with it's sensors you can basically measure the following:&lt;/p&gt;
 &lt;ul&gt;
@@ -16,7 +16,7 @@ The tag is about 5 cm in diameter and with it's sensors you can basically measur
 &lt;li&gt;Relative humidity&lt;/li&gt;
 &lt;li&gt;Barometric pressure&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1&gt;What is planned:&lt;/h1&gt;
+&lt;h1&gt;What is planned?&lt;/h1&gt;
 &lt;p&gt;At first I want to compare the data with the data of my &lt;a href="www.markusgoller.at/weather-station.html"&gt;PSA&lt;/a&gt;.
 Since I live in the Alps and there are wonderful mountains around me, I would like to use it to measure the environmental conditions around me.&lt;/p&gt;
 &lt;h1&gt;Here are a few impressions from the RuuviTag(s):&lt;/h1&gt;
