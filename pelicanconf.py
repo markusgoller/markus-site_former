@@ -50,5 +50,9 @@ MENUITEMS = [('Home', '/'), ('Archives', '/archives.html')]
 # pelican-themes
 THEME = "themes/attila"
 
+# Can set individual COVERS
+#HOME_COVER = '../images/bike_tour_berlin_notebook/IMG_20200819_130938_resize.jpg'
+HOME_COLOR = 'green'
+
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
