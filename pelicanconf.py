@@ -47,5 +47,8 @@ STATIC_PATHS = [
 
 MENUITEMS = [('Home', '/'), ('Archives', '/archives.html')]
 
+# pelican-themes
+THEME = "themes/attila"
+
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
