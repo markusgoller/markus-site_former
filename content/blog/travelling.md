@@ -1,5 +1,6 @@
 Title: Travelling
 Date: 2020-06-12 21:00
+og_image:../images/travelling/DSC04664_edited.jpg
 Tags: Travelling
 
 # In my spare time I like to be in the nature.
