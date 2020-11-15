@@ -13,5 +13,3 @@ Tags: Travelling
 
 ### Climbing in the Oetztal; Tyrol, Austria.
 ![Photo](/images/travelling/IMG_20180926_185843_edited_1.jpg)
-
-

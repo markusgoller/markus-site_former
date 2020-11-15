@@ -37,4 +37,3 @@ However, due to COVID-19 crisis there are delivery difficulties and I did not ge
 #### Will be continued...
 
 Photos by [AmbaSAT-1](https://ambasat.com/)
-

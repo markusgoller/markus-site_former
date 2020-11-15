@@ -1,6 +1,6 @@
 Title: Weather Station
 Date: 2020-07-18 16:00
-Modified: 2020-07-25 19:30
+Modified: 2020-11-15 20:00
 Tags: Raspberry Pi, Python, weather station
 
 # As a studied atmospheric scientist it is almost a duty to operate a personal weather station [(PWS)](https://www.wunderground.com/dashboard/pws/IPATSC2/).
@@ -33,8 +33,42 @@ Here you can see a sample screenshot of my PWS taken from Wunderground suitable 
 |                       | Illumination strength | 0 - 300000 lux         | -                                                                          | +- 15%                                                            |
 |                       | UV-index              | 0 - 15 (0 - 20000 W/m² | -                                                                          | -                                                                 |
 
+
+## Status  of the weatherstation via the Pi:
+```
+pi@raspberrypi:~ $ sudo /etc/init.d/weewx status 
+● weewx.service - LSB: weewx weather system
+   Loaded: loaded (/etc/init.d/weewx; generated; vendor preset: enabled)
+   Active: active (running) since Sun 2020-11-15 14:21:41 CET; 52min ago
+     Docs: man:systemd-sysv-generator(8)
+  Process: 612 ExecStop=/etc/init.d/weewx stop (code=exited, status=0/SUCCESS)
+  Process: 714 ExecStart=/etc/init.d/weewx start (code=exited, status=0/SUCCESS)
+   CGroup: /system.slice/weewx.service
+           └─729 python /usr/bin/weewxd --daemon --pidfile=/var/run/weewx.pid /etc/weewx/weewx.conf
+
+Nov 15 15:05:19 raspberrypi weewx[729]: restx: Wunderground-PWS: Published record 2020-11-15 15:05:00 CET (1605449100)
+Nov 15 15:05:32 raspberrypi weewx[729]: cheetahgenerator: Generated 8 files for report SeasonsReport in 12.61 seconds
+Nov 15 15:05:38 raspberrypi weewx[729]: imagegenerator: Generated 14 images for SeasonsReport in 6.01 seconds
+Nov 15 15:05:38 raspberrypi weewx[729]: copygenerator: copied 0 files to /var/www/html/weewx
+Nov 15 15:10:30 raspberrypi weewx[729]: manager: Added record 2020-11-15 15:10:00 CET (1605449400) to database 'weewx.sdb'
+Nov 15 15:10:30 raspberrypi weewx[729]: manager: Added record 2020-11-15 15:10:00 CET (1605449400) to daily summary in 'weewx.sdb'
+Nov 15 15:10:31 raspberrypi weewx[729]: restx: Wunderground-PWS: Published record 2020-11-15 15:10:00 CET (1605449400)
+Nov 15 15:10:44 raspberrypi weewx[729]: cheetahgenerator: Generated 8 files for report SeasonsReport in 12.67 seconds
+Nov 15 15:10:50 raspberrypi weewx[729]: imagegenerator: Generated 14 images for SeasonsReport in 5.98 seconds
+Nov 15 15:10:50 raspberrypi weewx[729]: copygenerator: copied 0 files to /var/www/html/weewx
+pi@raspberrypi:~ $ 
+```
+
+## Start / Stop the connection to the Pi (in case of errors):
+```
+pi@raspberrypi:~ $ sudo /etc/init.d/weewx stop
+```
+```
+pi@raspberrypi:~ $ sudo /etc/init.d/weewx start
+```
+
+
+
 Finally a link to [live data of my PWS](https://www.wunderground.com/dashboard/pws/IPATSC2/).
 
 ### Will be be continued...
-
-

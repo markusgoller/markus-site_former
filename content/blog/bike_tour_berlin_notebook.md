@@ -29,5 +29,3 @@ All in all we were really quite sporty and cycled a good 100 kilometers across B
 
 ### Abandoned Airport Tempelhof
 ![Photo](/images/bike_tour_berlin_notebook/IMG_20200817_134433_resize.jpg)
-
-
