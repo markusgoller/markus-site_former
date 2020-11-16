@@ -16,8 +16,8 @@
   <meta name="generator" content="Pelican" />
 <link href="https://markus-site.at/weather-station.html" rel="canonical" />
   <!-- Feed -->
-        <link href="https://markus-site.at/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Blog Full Atom Feed" />
-          <link href="https://markus-site.at/feeds/{slug}.atom.xml" type="application/atom+xml" rel="alternate" title="Blog Categories Atom Feed" />
+        <link href="https://markus-site.at/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Blog of Markus Full Atom Feed" />
+          <link href="https://markus-site.at/feeds/{slug}.atom.xml" type="application/atom+xml" rel="alternate" title="Blog of Markus Categories Atom Feed" />
 
   <link href="https://markus-site.at/theme/css/style.css" type="text/css" rel="stylesheet" />
 
@@ -50,7 +50,7 @@
 
 
 <!-- Open Graph -->
-<meta property="og:site_name" content="Blog"/>
+<meta property="og:site_name" content="Blog of Markus"/>
 <meta property="og:title" content="Weather Station"/>
 <meta property="og:description" content="As a studied atmospheric scientist it is almost a duty to operate a personal weather station (PWS). Here you can see the outside..."/>
 <meta property="og:locale" content="en_US"/>
@@ -240,7 +240,7 @@ The data is than hosted via <a href="http://www.weewx.com/">weex</a> to <a href=
 </tr>
 </tbody>
 </table>
-<h2>Status  of the weatherstation via the Pi:</h2>
+<h2>Status  of the weather station via the Pi:</h2>
 <div class="highlight"><pre><span></span><code><span class="nf">pi</span><span class="nv">@raspberrypi</span><span class="err">:</span><span class="o">~</span><span class="w"> </span><span class="err">$</span><span class="w"> </span><span class="n">sudo</span><span class="w"> </span><span class="o">/</span><span class="n">etc</span><span class="o">/</span><span class="n">init</span><span class="p">.</span><span class="n">d</span><span class="o">/</span><span class="n">weewx</span><span class="w"> </span><span class="n">status</span><span class="w"> </span>
 <span class="err">●</span><span class="w"> </span><span class="n">weewx</span><span class="p">.</span><span class="n">service</span><span class="w"> </span><span class="o">-</span><span class="w"> </span><span class="nl">LSB</span><span class="p">:</span><span class="w"> </span><span class="n">weewx</span><span class="w"> </span><span class="n">weather</span><span class="w"> </span><span class="k">system</span><span class="w"></span>
 <span class="w">   </span><span class="nl">Loaded</span><span class="p">:</span><span class="w"> </span><span class="n">loaded</span><span class="w"> </span><span class="p">(</span><span class="o">/</span><span class="n">etc</span><span class="o">/</span><span class="n">init</span><span class="p">.</span><span class="n">d</span><span class="o">/</span><span class="n">weewx</span><span class="p">;</span><span class="w"> </span><span class="n">generated</span><span class="p">;</span><span class="w"> </span><span class="n">vendor</span><span class="w"> </span><span class="nl">preset</span><span class="p">:</span><span class="w"> </span><span class="n">enabled</span><span class="p">)</span><span class="w"></span>
@@ -264,7 +264,7 @@ The data is than hosted via <a href="http://www.weewx.com/">weex</a> to <a href=
 <span class="nf">pi</span><span class="nv">@raspberrypi</span><span class="err">:</span><span class="o">~</span><span class="w"> </span><span class="err">$</span><span class="w"> </span>
 </code></pre></div>
 
-<h2>Start / Stop the connection to the Pi (in case of errors):</h2>
+<h2>Stop / Start the connection to the Pi (in case of errors):</h2>
 <div class="highlight"><pre><span></span><code><span class="err">pi@raspberrypi:~ $ sudo /etc/init.d/weewx stop</span>
 </code></pre></div>
 

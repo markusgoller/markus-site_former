@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Blog</title><link href="https://markus-site.at/" rel="alternate"></link><link href="https://markus-site.at/feeds/all.atom.xml" rel="self"></link><id>https://markus-site.at/</id><updated>2020-11-15T20:00:00+01:00</updated><entry><title>RuuviTags</title><link href="https://markus-site.at/ruuvitags.html" rel="alternate"></link><published>2020-09-13T20:00:00+02:00</published><updated>2020-09-13T20:00:00+02:00</updated><author><name>Markus</name></author><id>tag:markus-site.at,2020-09-13:/ruuvitags.html</id><summary type="html">&lt;h1&gt;What is a RuuviTag?&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Blog of Markus</title><link href="https://markus-site.at/" rel="alternate"></link><link href="https://markus-site.at/feeds/all.atom.xml" rel="self"></link><id>https://markus-site.at/</id><updated>2020-11-15T20:00:00+01:00</updated><entry><title>RuuviTags</title><link href="https://markus-site.at/ruuvitags.html" rel="alternate"></link><published>2020-09-13T20:00:00+02:00</published><updated>2020-09-13T20:00:00+02:00</updated><author><name>Markus</name></author><id>tag:markus-site.at,2020-09-13:/ruuvitags.html</id><summary type="html">&lt;h1&gt;What is a RuuviTag?&lt;/h1&gt;
 &lt;p&gt;A RuuviTag is a Open-Source Bluetooth Sensor Beacon, it was a &lt;a href="https://www.kickstarter.com/projects/463050344/ruuvitag-open-source-bluetooth-sensor-beacon"&gt;Kickstarter&lt;/a&gt; project.  &lt;br&gt;
 The tag is about 5 cm in diameter and with it's sensors you can basically measure the following:&lt;/p&gt;
 &lt;ul&gt;
@@ -29,11 +29,11 @@ Since I live in the Alps and there are wonderful mountains around me, I would li
 &lt;h4&gt;Will be continued...&lt;/h4&gt;</content><category term="blog"></category><category term="Arduino"></category><category term="Environment"></category></entry><entry><title>Bike tour Berlin (Jupyter Notebook)</title><link href="https://markus-site.at/bike-tour-berlin-jupyter-notebook.html" rel="alternate"></link><published>2020-08-26T16:00:00+02:00</published><updated>2020-08-26T16:00:00+02:00</updated><author><name>Markus</name></author><id>tag:markus-site.at,2020-08-26:/bike-tour-berlin-jupyter-notebook.html</id><summary type="html">&lt;h1&gt;Bike tour Berlin&lt;/h1&gt;
 &lt;p&gt;Since my brother and I belong more to the sporty guys, we thought, why shouldn't we explore Berlin by bike.
 So we grabbed a rental bike and went for a spin through Berlin.
-Since I personally haven't created a jupyter notebook for a while now, I think …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Bike tour Berlin&lt;/h1&gt;
+Since I personally haven't created a Jupyter Notebook for a while now, I think …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Bike tour Berlin&lt;/h1&gt;
 &lt;p&gt;Since my brother and I belong more to the sporty guys, we thought, why shouldn't we explore Berlin by bike.
 So we grabbed a rental bike and went for a spin through Berlin.
-Since I personally haven't created a jupyter notebook for a while now, I think this is a good opportunity.&lt;/p&gt;
-&lt;h3&gt;What is planned:&lt;/h3&gt;
+Since I personally haven't created a Jupyter Notebook for a while now, I think this is a good opportunity.&lt;/p&gt;
+&lt;h3&gt;What is planned?&lt;/h3&gt;
 &lt;p&gt;A map with all the routes we have taken this will include the following Python elements:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Jupyter Notebook&lt;/li&gt;
@@ -47,7 +47,7 @@ Since I personally haven't created a jupyter notebook for a while now, I think t
 &lt;p&gt;&lt;img alt="Photo" src="/images/bike_tour_berlin_notebook/IMG_20200815_114145_resize.jpg"&gt;&lt;/p&gt;
 &lt;h3&gt;Gedächtniskirche&lt;/h3&gt;
 &lt;p&gt;&lt;img alt="Photo" src="/images/bike_tour_berlin_notebook/IMG_20200815_200436_1_resize.jpg"&gt;&lt;/p&gt;
-&lt;h3&gt;Parts of the Wall.&lt;/h3&gt;
+&lt;h3&gt;Parts of the Wall&lt;/h3&gt;
 &lt;p&gt;&lt;img alt="Photo" src="/images/bike_tour_berlin_notebook/IMG_20200819_205230_resize.jpg"&gt;&lt;/p&gt;
 &lt;h3&gt;Abandoned Airport Tempelhof&lt;/h3&gt;
 &lt;p&gt;&lt;img alt="Photo" src="/images/bike_tour_berlin_notebook/IMG_20200817_134433_resize.jpg"&gt;&lt;/p&gt;</content><category term="blog"></category></entry><entry><title>My Personal Satellite</title><link href="https://markus-site.at/my-personal-satellite.html" rel="alternate"></link><published>2020-07-25T19:30:00+02:00</published><updated>2020-10-26T23:30:00+01:00</updated><author><name>Markus</name></author><id>tag:markus-site.at,2020-07-25:/my-personal-satellite.html</id><summary type="html">&lt;h1&gt;One project that I am especially looking forward to is following:&lt;/h1&gt;
@@ -74,9 +74,12 @@ The CubeSat should transport about 200 sprites.&lt;/p&gt;
 &lt;p&gt;The launch of the rocket should be in the year 2021 with the first Neptune 2 rocket launch from Interorbital Systems (IOS).&lt;/p&gt;
 &lt;p&gt;However, due to COVID-19 crisis there are delivery difficulties and I did not get a satellite kit yet.
 ...&lt;/p&gt;
-&lt;h2&gt;News from AmbaSat:&lt;/h2&gt;
+&lt;h2&gt;News from AmbaSat (2020-10-26)&lt;/h2&gt;
 &lt;p&gt;"The latest batch of AmbaSat-1 kits are ready to ship", I can hardly wait to solder the kit :-). See more at the &lt;a href="https://ambasat.com/ambasat-1-kits-ready-to-ship/"&gt;AmbaSAT Blog&lt;/a&gt;.
 &lt;img alt="Photo" src="/images/my_personal_satellite/ambasat-boxes-r.jpg"&gt;  &lt;/p&gt;
+&lt;h2&gt;Recent News from Ambasat (2020-11-16)&lt;/h2&gt;
+&lt;p&gt;AmbaSat has processed my Order from Febuary 2020.
+&lt;img alt="Photo" src="/images/my_personal_satellite/AmbaSat_processed_order_2020-11-16 20-56-30.png"&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://ambasat.com/blog-2/"&gt;Link to AmbaSAT Blog&lt;/a&gt;&lt;/p&gt;
 &lt;h4&gt;Will be continued...&lt;/h4&gt;
 &lt;p&gt;Photos by &lt;a href="https://ambasat.com/"&gt;AmbaSAT-1&lt;/a&gt;&lt;/p&gt;</content><category term="blog"></category><category term="Arduino"></category><category term="Satellite"></category><category term="Space"></category><category term="Environment"></category><category term="LoRaWAN"></category><category term="TTN"></category></entry><entry><title>Weather Station</title><link href="https://markus-site.at/weather-station.html" rel="alternate"></link><published>2020-07-18T16:00:00+02:00</published><updated>2020-11-15T20:00:00+01:00</updated><author><name>Markus</name></author><id>tag:markus-site.at,2020-07-18:/weather-station.html</id><summary type="html">&lt;h1&gt;As a studied atmospheric scientist it is almost a duty to operate a personal weather station &lt;a href="https://www.wunderground.com/dashboard/pws/IPATSC2/"&gt;(PWS)&lt;/a&gt;.&lt;/h1&gt;
@@ -184,7 +187,7 @@ The data is than hosted via &lt;a href="http://www.weewx.com/"&gt;weex&lt;/a&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;h2&gt;Status  of the weatherstation via the Pi:&lt;/h2&gt;
+&lt;h2&gt;Status  of the weather station via the Pi:&lt;/h2&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="nf"&gt;pi&lt;/span&gt;&lt;span class="nv"&gt;@raspberrypi&lt;/span&gt;&lt;span class="err"&gt;:&lt;/span&gt;&lt;span class="o"&gt;~&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="err"&gt;$&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;sudo&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;etc&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;init&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;d&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;weewx&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;status&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;
 &lt;span class="err"&gt;●&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;weewx&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;service&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nl"&gt;LSB&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;weewx&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;weather&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="k"&gt;system&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
 &lt;span class="w"&gt;   &lt;/span&gt;&lt;span class="nl"&gt;Loaded&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;loaded&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;etc&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;init&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;d&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;weewx&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;generated&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;vendor&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nl"&gt;preset&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;enabled&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
@@ -208,7 +211,7 @@ The data is than hosted via &lt;a href="http://www.weewx.com/"&gt;weex&lt;/a&gt;
 &lt;span class="nf"&gt;pi&lt;/span&gt;&lt;span class="nv"&gt;@raspberrypi&lt;/span&gt;&lt;span class="err"&gt;:&lt;/span&gt;&lt;span class="o"&gt;~&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="err"&gt;$&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
-&lt;h2&gt;Start / Stop the connection to the Pi (in case of errors):&lt;/h2&gt;
+&lt;h2&gt;Stop / Start the connection to the Pi (in case of errors):&lt;/h2&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="err"&gt;pi@raspberrypi:~ $ sudo /etc/init.d/weewx stop&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
@@ -244,7 +247,7 @@ Basically the camera is pulled along the sled with the help of a motor. I was in
 &lt;li&gt;ball bearings&lt;/li&gt;
 &lt;li&gt;...&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;Code Snippets&lt;/h2&gt;
+&lt;h2&gt;Code Snippets:&lt;/h2&gt;
 &lt;p&gt;The original code is from James Moore and was edited by me. &lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="ch"&gt;#!/usr/bin/env python&lt;/span&gt;
 &lt;span class="c1"&gt;#  raspiLapseCam.py&lt;/span&gt;
