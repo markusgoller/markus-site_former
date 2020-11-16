@@ -28,10 +28,13 @@ The launch of the rocket should be in the year 2021 with the first Neptune 2 roc
 However, due to COVID-19 crisis there are delivery difficulties and I did not get a satellite kit yet.
 ...
 
-## News from AmbaSat:
+## News from AmbaSat (2020-10-26)
 "The latest batch of AmbaSat-1 kits are ready to ship", I can hardly wait to solder the kit :-). See more at the [AmbaSAT Blog](https://ambasat.com/ambasat-1-kits-ready-to-ship/).
 ![Photo](/images/my_personal_satellite/ambasat-boxes-r.jpg)  
 
+## Recent News from Ambasat (2020-11-16)
+AmbaSat has processed my Order from Febuary 2020.
+![Photo](/images/my_personal_satellite/AmbaSat_processed_order_2020-11-16 20-56-30.png)
 
 [Link to AmbaSAT Blog](https://ambasat.com/blog-2/)
 

@@ -35,7 +35,7 @@ Here you can see a sample screenshot of my PWS taken from Wunderground suitable 
 |                       | UV-index              | 0 - 15 (0 - 20000 W/m² | -                                                                          | -                                                                 |
 
 
-## Status  of the weatherstation via the Pi:
+## Status  of the weather station via the Pi:
 ```
 pi@raspberrypi:~ $ sudo /etc/init.d/weewx status 
 ● weewx.service - LSB: weewx weather system
@@ -60,7 +60,7 @@ Nov 15 15:10:50 raspberrypi weewx[729]: copygenerator: copied 0 files to /var/ww
 pi@raspberrypi:~ $ 
 ```
 
-## Start / Stop the connection to the Pi (in case of errors):
+## Stop / Start the connection to the Pi (in case of errors):
 ```
 pi@raspberrypi:~ $ sudo /etc/init.d/weewx stop
 ```

@@ -30,7 +30,7 @@ Basically the camera is pulled along the sled with the help of a motor. I was in
 * ball bearings
 * ...
 
-## Code Snippets
+## Code Snippets:
 The original code is from James Moore and was edited by me. 
 ```python
 #!/usr/bin/env python
