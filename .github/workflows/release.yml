@@ -2,7 +2,7 @@ name: release on GH-Pages
 
 on:
   push:
-    branches: [ pelican-themes-better ]
+    branches: [ master ]
 
 jobs:
   gh-pages:
