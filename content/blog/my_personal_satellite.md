@@ -9,7 +9,7 @@ Tags: Arduino, Satellite, Space, Environment, LoRaWAN, TTN
 I built my own satellite and launch it into space ;-).
 Well you will ask yourself, how is this possible?
 Short answer, crowdfunding via [Kickstarter](https://www.kickstarter.com/projects/ambasat/ambasat-1-an-educational-space-satellite-kit?lang=de) make it possible.
-The campaign was launched in May 2020 and ended in July 2019.   
+The campaign was launched in May 2019 and ended in July 2019.   
 The so called [AmbaSAT-1](https://ambasat.com/) is a small satellite (Sprite-class Space satellite).
 The dimensions of the satellite are just 35 mm * 35 mm .
 The sprites will be sent to everybody who backed a kit. 
