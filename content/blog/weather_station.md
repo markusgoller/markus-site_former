@@ -11,12 +11,12 @@ Here you can see the outside sensors.
 
 It is a Renkfore radio weather station ["WH2315"](https://www.amazon.de/Renkforce-WH2315-Funk-WETTERSTATION/dp/B01N4DK6TG#ace-g6772571139).
 The station has a radio connection to a basis station and this is connected to a Raspberry Pi.
-The data is than hosted via [WeeWX](http://www.weewx.com/) to [Wunderground](https://www.wunderground.com/).
+The data is than hosted via [WeeWX](http://www.weewx.com/) to [Weather Underground](https://www.wunderground.com/).
 
 Below is a picture of the basis station.
 ![Photo](/images/weather_station/IMG_20200726_172233_resize.jpg)
 
-Here you can see a sample screenshot of my PWS taken from Wunderground suitable to the photo above. 
+Here you can see a sample screenshot of my PWS taken from Weather Underground suitable to the photo above. 
 ![Photo](/images/weather_station/renkforce_weather_history_ipatsc2_Screenshot from 2020-07-27 21-01-11.png)
 
 ## Technical Data:
