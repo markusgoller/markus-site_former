@@ -11,7 +11,7 @@ Here you can see the outside sensors.
 
 It is a Renkfore radio weather station ["WH2315"](https://www.amazon.de/Renkforce-WH2315-Funk-WETTERSTATION/dp/B01N4DK6TG#ace-g6772571139).
 The station has a radio connection to a basis station and this is connected to a Raspberry Pi.
-The data is than hosted via [weex](http://www.weewx.com/) to [Wunderground](https://www.wunderground.com/).
+The data is than hosted via [WeeWX](http://www.weewx.com/) to [Wunderground](https://www.wunderground.com/).
 
 Below is a picture of the basis station.
 ![Photo](/images/weather_station/IMG_20200726_172233_resize.jpg)
