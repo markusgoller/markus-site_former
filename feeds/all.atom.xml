@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Blog of Markus</title><link href="https://markus-site.at/" rel="alternate"></link><link href="https://markus-site.at/feeds/all.atom.xml" rel="self"></link><id>https://markus-site.at/</id><updated>2020-11-16T23:30:00+01:00</updated><entry><title>RuuviTags</title><link href="https://markus-site.at/ruuvitags.html" rel="alternate"></link><published>2020-09-13T20:00:00+02:00</published><updated>2020-09-13T20:00:00+02:00</updated><author><name>Markus</name></author><id>tag:markus-site.at,2020-09-13:/ruuvitags.html</id><summary type="html">&lt;h1&gt;What is a RuuviTag?&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Blog of Markus</title><link href="https://markus-site.at/" rel="alternate"></link><link href="https://markus-site.at/feeds/all.atom.xml" rel="self"></link><id>https://markus-site.at/</id><updated>2021-04-13T21:00:00+02:00</updated><entry><title>MasterSnippets</title><link href="https://markus-site.at/mastersnippets.html" rel="alternate"></link><published>2021-04-13T21:00:00+02:00</published><updated>2021-04-13T21:00:00+02:00</updated><author><name>Markus</name></author><id>tag:markus-site.at,2021-04-13:/mastersnippets.html</id><summary type="html">&lt;h1&gt;What is planned?&lt;/h1&gt;
+&lt;p&gt;Here I will present individual parts of my Masterthesis.
+The title was (Satellitenmessungen vonNiederschlag: Räumliche und Zeitliche Repräsentativität von Niederschlag).&lt;/p&gt;
+&lt;p&gt;At first a small notebook is already available.&lt;/p&gt;
+&lt;h1&gt;Please have a look at the following links.&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://diglib.uibk.ac.at/urn:nbn:at:at-ubi:1-29018"&gt;Masterthesis&lt;/a&gt;
+&lt;a href="https://github.com/markusgoller/master_snippets"&gt;GitHub&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Will be be continued...&lt;/h3&gt;
+&lt;p&gt;Photo by &lt;a href="https://gpm.nasa.gov/missions/GPM"&gt;Global Precipitation Measurement …&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;h1&gt;What is planned?&lt;/h1&gt;
+&lt;p&gt;Here I will present individual parts of my Masterthesis.
+The title was (Satellitenmessungen vonNiederschlag: Räumliche und Zeitliche Repräsentativität von Niederschlag).&lt;/p&gt;
+&lt;p&gt;At first a small notebook is already available.&lt;/p&gt;
+&lt;h1&gt;Please have a look at the following links.&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://diglib.uibk.ac.at/urn:nbn:at:at-ubi:1-29018"&gt;Masterthesis&lt;/a&gt;
+&lt;a href="https://github.com/markusgoller/master_snippets"&gt;GitHub&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Will be be continued...&lt;/h3&gt;
+&lt;p&gt;Photo by &lt;a href="https://gpm.nasa.gov/missions/GPM"&gt;Global Precipitation Measurement Mission&lt;/a&gt;&lt;/p&gt;</content><category term="blog"></category><category term="Python"></category><category term="Notebooks"></category><category term="Science"></category></entry><entry><title>RuuviTags</title><link href="https://markus-site.at/ruuvitags.html" rel="alternate"></link><published>2020-09-13T20:00:00+02:00</published><updated>2020-09-13T20:00:00+02:00</updated><author><name>Markus</name></author><id>tag:markus-site.at,2020-09-13:/ruuvitags.html</id><summary type="html">&lt;h1&gt;What is a RuuviTag?&lt;/h1&gt;
 &lt;p&gt;A RuuviTag is a Open-Source Bluetooth Sensor Beacon, it was a &lt;a href="https://www.kickstarter.com/projects/463050344/ruuvitag-open-source-bluetooth-sensor-beacon"&gt;Kickstarter&lt;/a&gt; project.  &lt;br&gt;
 The tag is about 5 cm in diameter and with it's sensors you can basically measure the following:&lt;/p&gt;
 &lt;ul&gt;
