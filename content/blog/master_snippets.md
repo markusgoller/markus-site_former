@@ -1,6 +1,6 @@
 Title: MasterSnippets
 Date: 2021-04-13 21:00
-og_image:../images/master_snippets/gmp_satellite_2021-04-13 21-11-42.png
+og_image:../images/master_snippets/gmp_satellite_2021-04-13_21-11-42.png
 Tags: Python, Notebooks, Science
 
 # What is planned?
