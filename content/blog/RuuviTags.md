@@ -13,7 +13,7 @@ The tag is about 5 cm in diameter and with it's sensors you can basically measur
 
 # What is planned?
 At first I want to compare the data with the data of my [PSA](www.markusgoller.at/weather-station.html).
-Since I live in the Alps and there are wonderful mountains around me, I would like to use it to measure the environmental conditions around me.
+Since I live in the Alps and there are wonderful mountains around me, I would like to use it to measure the environmental conditions around me (possibly a comparison with my smartwatch while skiing).
 
 # Here are a few impressions from the RuuviTag(s):
 

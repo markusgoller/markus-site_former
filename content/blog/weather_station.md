@@ -35,7 +35,7 @@ Here you can see a sample screenshot of my PWS taken from Weather Underground su
 |                       | UV-index              | 0 - 15 (0 - 20000 W/m² | -                                                                          | -                                                                 |
 
 
-## Status  of the weather station via the Pi:
+## Status of the weather station called via the Pi:
 ```
 pi@raspberrypi:~ $ sudo /etc/init.d/weewx status 
 ● weewx.service - LSB: weewx weather system
