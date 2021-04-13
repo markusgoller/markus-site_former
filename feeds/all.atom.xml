@@ -18,7 +18,7 @@ The tag is about 5 cm in diameter and with it's sensors you can basically measur
 &lt;/ul&gt;
 &lt;h1&gt;What is planned?&lt;/h1&gt;
 &lt;p&gt;At first I want to compare the data with the data of my &lt;a href="www.markusgoller.at/weather-station.html"&gt;PSA&lt;/a&gt;.
-Since I live in the Alps and there are wonderful mountains around me, I would like to use it to measure the environmental conditions around me.&lt;/p&gt;
+Since I live in the Alps and there are wonderful mountains around me, I would like to use it to measure the environmental conditions around me (possibly a comparison with my smartwatch while skiing).&lt;/p&gt;
 &lt;h1&gt;Here are a few impressions from the RuuviTag(s):&lt;/h1&gt;
 &lt;h3&gt;"Slogan" ;-)&lt;/h3&gt;
 &lt;p&gt;&lt;img alt="Photo" src="/images/RuuviTags/IMG_20200914_185318_resize.jpg"&gt;&lt;/p&gt;
@@ -187,7 +187,7 @@ The data is than hosted via &lt;a href="http://www.weewx.com/"&gt;WeeWX&lt;/a&gt
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;h2&gt;Status  of the weather station via the Pi:&lt;/h2&gt;
+&lt;h2&gt;Status of the weather station called via the Pi:&lt;/h2&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="n"&gt;pi&lt;/span&gt;&lt;span class="err"&gt;@&lt;/span&gt;&lt;span class="n"&gt;raspberrypi&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt;&lt;span class="o"&gt;~&lt;/span&gt; &lt;span class="o"&gt;$&lt;/span&gt; &lt;span class="n"&gt;sudo&lt;/span&gt; &lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;etc&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;init&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;d&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;weewx&lt;/span&gt; &lt;span class="n"&gt;status&lt;/span&gt; 
 &lt;span class="err"&gt;●&lt;/span&gt; &lt;span class="n"&gt;weewx&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;service&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="n"&gt;LSB&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;weewx&lt;/span&gt; &lt;span class="n"&gt;weather&lt;/span&gt; &lt;span class="n"&gt;system&lt;/span&gt;
    &lt;span class="n"&gt;Loaded&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;loaded&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;etc&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;init&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;d&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;weewx&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt; &lt;span class="n"&gt;generated&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt; &lt;span class="n"&gt;vendor&lt;/span&gt; &lt;span class="n"&gt;preset&lt;/span&gt;&lt;span class="p"&gt;:&lt;/span&gt; &lt;span class="n"&gt;enabled&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
