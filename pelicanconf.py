@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Markus'
 SITENAME = 'Blog of Markus'
-SITEURL = ''
+SITEURL = 'https://markus-site.at'
 
 PATH = 'content'
 
@@ -51,8 +51,12 @@ MENUITEMS = [('Home', '/'), ('Archives', '/archives.html')]
 THEME = "themes/attila"
 
 # Can set individual COVERS
-#HOME_COVER = '../images/bike_tour_berlin_notebook/IMG_20200819_130938_resize.jpg'
-HOME_COLOR = 'green'
+#
+# See site index.html (SITEURL has to be defined)
+HOME_COVER = '/images/all_images/PSX_20200814_222941.jpg'   # SX_20200814_222617.jpg, IMG_20200819_130938.jpg, PSX_20200814_222941.jpg
+
+#HOME_COVER = 'https://casper.ghost.org/v1.0.0/images/welcome.jpg'
+#HOME_COLOR = 'green'
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
