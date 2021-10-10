@@ -60,3 +60,6 @@ HOME_COVER = '/images/all_images/PSX_20200814_222941.jpg'   # SX_20200814_222617
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+# Uncomment if develope something
+#LOAD_CONTENT_CACHE = False
