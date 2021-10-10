@@ -4,6 +4,8 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Markus'
 SITENAME = 'Blog of Markus'
+#
+#SITEURL = 'http://localhost:8000/'
 SITEURL = 'https://markus-site.at'
 
 PATH = 'content'
@@ -53,7 +55,7 @@ THEME = "themes/attila"
 # Can set individual COVERS
 #
 # See site index.html (SITEURL has to be defined)
-HOME_COVER = 'images/all_images/PSX_20200814_222941.jpg'   # SX_20200814_222617.jpg, IMG_20200819_130938.jpg, PSX_20200814_222941.jpg
+HOME_COVER = 'images/all_images/PSX_20200814_222941.jpg'   #PSX_20200814_222941.jpg   #IMG_20211009_173919.jpg
 
 #HOME_COVER = 'https://casper.ghost.org/v1.0.0/images/welcome.jpg'
 #HOME_COLOR = 'green'
