@@ -4,9 +4,8 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Markus'
 SITENAME = 'Blog of Markus'
-#
-#SITEURL = 'http://localhost:8000/'
-SITEURL = 'https://markus-site.at'
+# Default, do not set here something (change in publishconf.py)
+SITEURL = ''
 
 PATH = 'content'
 
@@ -56,9 +55,6 @@ THEME = "themes/attila"
 #
 # See site index.html (SITEURL has to be defined)
 HOME_COVER = 'images/all_images/PSX_20200814_222941.jpg'   #PSX_20200814_222941.jpg   #IMG_20211009_173919.jpg
-
+#
 #HOME_COVER = 'https://casper.ghost.org/v1.0.0/images/welcome.jpg'
 #HOME_COLOR = 'green'
-
-# Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
