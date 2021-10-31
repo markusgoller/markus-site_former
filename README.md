@@ -215,7 +215,7 @@ https://imagemagick.org/script/mogrify.php
 
 Shrink the images in that folder individually:
 ```
-mogrify -resize 1050x700 *.jpg
+mogrify -resize 933x700 *.jpg
 
 ```
 
